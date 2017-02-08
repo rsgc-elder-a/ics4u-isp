@@ -31,39 +31,41 @@ Modify this document and add your responses to the following prompts below.
 
 *Write a paragraph to describe the utility of your application. This applies equally for games. When would someone use your application? Why would they use your application?*
 
-Replace this with your paragraph(s).
+My app would simply be a game and this is mean for me or anyone to use on the subway when they are bored. 
+
+
 
 ### What is your inspiration for this project?
 
 *Have you seen another application that you wish to improve on? Has someone asked you to create this?*
 
-Replace this with your paragraph(s).
+This cames from all the time when I am sitting on the subway and I am bored all by myself and want something to do and a simple game would make me happy. 
 
 ### What is your prior experience in this area?
 
 *Have you written an application like this before? Have you made use of any required APIs before?*
 
-Replace this with your paragraph(s).
+I have not written any games like this and I will use sprite kit which will be entierly new to me. 
 
 ### What are skills do you hope to acquire by completing this project?
 
 *For example, you might be writing a networked application for the first time. Or, you may be writing an application that requires a particularly well designed user interface. Describe what you expect to learn by writing this application.*
 
-Replace this with your paragraph(s).
+I want to increase my understanding of classes as well as game funcitonality as I had not really made many programs in the forms of games. 
 
 ### What dependencies, if any, will be required to complete your project?
 
 *If you are writing a networked application, you might be using an API like Alamofire to simplify that part of the implementation. If you are writing an application that communicates over Bluetooth, you may be using the Core Bluetooth framework. Please list any expected dependencies for your project.*
 
-Replace this with your paragraph(s).
+-spritekit 
 
 ### Rate the personal difficulty level of this project.
 
-Replace this with your paragraph(s).
+I think that i should be able to complete but the main thing being I muyst learn a tottaly new api : spritekit. 
 
 ### Identify what you think your biggest challenge for successfully completing this ISP will be.
 
-Replace this with your paragraph(s).
+I think it will be tough getting to use spritekit but as well jumping into something orignal right off the bat. 
 
 ### Make storyboards to indicate the user interface and/or functionality of your application.
 
